@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application>
+	<Options Skin="Black" />
+	<SchemaModules>
+		<SchemaModule Name="DevExpress.ExpressApp.SystemModule.AutoFilterRowListViewController" Version="9.3.3.0" IsNewNode="True" />
+		<SchemaModule Name="DevExpress.ExpressApp.SystemModule.HideActionsViewController" Version="9.3.3.0" IsNewNode="True" />
+		<SchemaModule Name="DevExpress.ExpressApp.SystemModule.ShowNavigationItemController" Version="9.3.3.0" />
+		<SchemaModule Name="DevExpress.ExpressApp.Win.SystemModule.ChooseSkinController" Version="9.3.3.0" IsNewNode="True" />
+		<SchemaModule Name="SystemModule" Version="9.3.3.0" IsNewNode="True" />
+		<SchemaModule Name="SystemWindowsFormsModule" Version="9.3.3.0" IsNewNode="True" />
+	</SchemaModules>
+</Application>
