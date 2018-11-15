@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HighlightFocusedLayoutItemDetailViewController.cs](./CS/WinWebSolution.Module.Web/HighlightFocusedLayoutItemDetailViewController.cs) (VB: [HighlightFocusedLayoutItemDetailViewController.vb](./VB/WinWebSolution.Module.Web/HighlightFocusedLayoutItemDetailViewController.vb))
+* [HighlightFocusedLayoutItemDetailViewController.cs](./CS/WinWebSolution.Module.Win/HighlightFocusedLayoutItemDetailViewController.cs) (VB: [HighlightFocusedLayoutItemDetailViewController.vb](./VB/WinWebSolution.Module.Win/HighlightFocusedLayoutItemDetailViewController.vb))
+* **[HighlightFocusedLayoutItemDetailViewControllerBase.cs](./CS/WinWebSolution.Module/HighlightFocusedLayoutItemDetailViewControllerBase.cs) (VB: [HighlightFocusedLayoutItemDetailViewControllerBase.vb](./VB/WinWebSolution.Module/HighlightFocusedLayoutItemDetailViewControllerBase.vb))**
+* [Module.cs](./CS/WinWebSolution.Module/Module.cs) (VB: [Module.vb](./VB/WinWebSolution.Module/Module.vb))
+* [Default.aspx](./CS/WinWebSolution.Web/Default.aspx) (VB: [Default.aspx](./VB/WinWebSolution.Web/Default.aspx))
+* [E2106.js](./CS/WinWebSolution.Web/E2106.js) (VB: [E2106.js](./VB/WinWebSolution.Web/E2106.js))
+<!-- default file list end -->
 # How to highlight the focused editor in DetailView
 
 
