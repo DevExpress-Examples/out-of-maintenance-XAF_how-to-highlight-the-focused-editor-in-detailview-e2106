@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HighlightFocusedLayoutItemDetailViewController.cs](./CS/WinWebSolution.Module.Web/HighlightFocusedLayoutItemDetailViewController.cs) (VB: [HighlightFocusedLayoutItemDetailViewController.vb](./VB/WinWebSolution.Module.Web/HighlightFocusedLayoutItemDetailViewController.vb))
+* [HighlightFocusedLayoutItemDetailViewController.cs](./CS/WinWebSolution.Module.Win/HighlightFocusedLayoutItemDetailViewController.cs) (VB: [HighlightFocusedLayoutItemDetailViewController.vb](./VB/WinWebSolution.Module.Win/HighlightFocusedLayoutItemDetailViewController.vb))
+* **[HighlightFocusedLayoutItemDetailViewControllerBase.cs](./CS/WinWebSolution.Module/HighlightFocusedLayoutItemDetailViewControllerBase.cs) (VB: [HighlightFocusedLayoutItemDetailViewControllerBase.vb](./VB/WinWebSolution.Module/HighlightFocusedLayoutItemDetailViewControllerBase.vb))**
+* [Module.cs](./CS/WinWebSolution.Module/Module.cs) (VB: [Module.vb](./VB/WinWebSolution.Module/Module.vb))
+<!-- default file list end -->
 # How to highlight the focused editor in DetailView
 
 
