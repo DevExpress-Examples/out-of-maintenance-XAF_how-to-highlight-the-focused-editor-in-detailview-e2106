@@ -9,6 +9,9 @@
 * [E2106.js](./CS/WinWebSolution.Web/E2106.js) (VB: [E2106.js](./VB/WinWebSolution.Web/E2106.js))
 <!-- default file list end -->
 # How to highlight the focused editor in DetailView
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2106)**
+<!-- run online end -->
 
 
 <p><strong>S</strong><strong>cenario</strong><br> In this example, it is demonstrated how highlight focused editors in an editable DetailView for both Windows and the Web:</p>
