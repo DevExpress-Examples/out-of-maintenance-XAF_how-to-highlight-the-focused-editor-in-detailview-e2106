@@ -9,7 +9,7 @@
 <!-- default file list end -->
 # How to highlight the focused editor in DetailView
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e2106)**
+**[[Run Online]](https://codecentral.devexpress.com/e2106/)**
 <!-- run online end -->
 
 
